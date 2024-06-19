@@ -744,6 +744,9 @@ video {
 .w-8 {
   width: 2rem;
 }
+.w-\[100\%\] {
+  width: 100%;
+}
 .w-\[11\.25rem\] {
   width: 11.25rem;
 }
