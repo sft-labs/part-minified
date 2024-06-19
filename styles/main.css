@@ -659,6 +659,9 @@ video {
 .hidden {
   display: none;
 }
+.\!h-5 {
+  height: 1.25rem !important;
+}
 .\!h-\[1\.5625rem\] {
   height: 1.5625rem !important;
 }
@@ -715,6 +718,9 @@ video {
 }
 .min-h-full {
   min-height: 100%;
+}
+.\!w-12 {
+  width: 3rem !important;
 }
 .\!w-\[100\%\] {
   width: 100% !important;
